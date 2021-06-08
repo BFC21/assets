@@ -1,0 +1,10 @@
+  "name": "BIG FUTURE COIN",
+    "website": "http://bigfuturecoin.com/",
+    "description": "BigFutureCoin is multi project coin with partnership of Elpidas.",
+    "explorer": "https://bscscan.com/token/0xc78FA8e225E4ea4B8481A7b45b74c4811cEDe02E",
+    "type": "BEP20",
+    "symbol": "BFC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc78FA8e225E4ea4B8481A7b45b74c4811cEDe02E"
+}
